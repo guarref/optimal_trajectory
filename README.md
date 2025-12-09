@@ -13,7 +13,6 @@
 ## Требования
 
 - Операционная система: Windows, Linux или macOS
-- Интернет-соединение (для скачивания Go и зависимостей)
 
 ## Установка Go
 
@@ -62,13 +61,13 @@ go version
 2. **Откройте терминал в папке проекта**
 
    ```bash
-   cd /path/to/lab2_opt_tr_COPY
+   cd /path/to/optimal_trajectory
    ```
 
 3. **Инициализируйте модуль Go и установите зависимости:**
 
    ```bash
-   go mod init lab2_opt_tr
+   go mod init optimal_trajectory
    go mod tidy
    ```
 
@@ -195,4 +194,5 @@ go version
 
 ## Лицензия
 Этот проект создан в учебных целях.
+
 
